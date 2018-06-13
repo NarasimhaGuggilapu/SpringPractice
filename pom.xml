@@ -54,6 +54,6 @@
 	</dependencies>
 
 	<build>
-		<finalName>HelloWorld</finalName>
+		<finalName>ROOT</finalName>
 	</build>
 </project>
